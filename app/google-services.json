@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986638384153",
+    "project_id": "fxnx-app",
+    "storage_bucket": "fxnx-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986638384153:android:6a717f8de6de37b04c3e88",
+        "android_client_info": {
+          "package_name": "com.sam.fxnx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByhy_Gp9QcSIoAH_6AMGFw7zbbtnws7MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
